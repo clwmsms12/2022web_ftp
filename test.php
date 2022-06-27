@@ -15,7 +15,8 @@
         $string = "bravo my life";
         echo $string;
 
-        $num = $_GET['point'];
+        // $num = $_GET['point'];
+        $num = 80;
         echo $num;
     ?>
 
